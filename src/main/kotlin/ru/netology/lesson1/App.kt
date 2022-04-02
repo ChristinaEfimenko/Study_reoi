@@ -1,4 +1,4 @@
-package ru.netology
+package ru.netology.lesson1
 
 fun main() {
 
